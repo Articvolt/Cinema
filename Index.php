@@ -48,7 +48,8 @@
         </ul>
 
         <h2>RESULTAT</h2>
-
+    </main>
+</body>
 
 <?php
 
