@@ -80,6 +80,7 @@ $mark = new Acteur("Hamill","Mark","H","1951-09-25");
 $action = new Genre("d'action");
 $scienceFiction = new Genre("de science-Fiction");
 $aventure = new Genre("d'aventure");
+$drame = new Genre("drame");
 
 // FILM 
 
