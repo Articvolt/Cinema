@@ -43,3 +43,5 @@ public function AfficherListeGenre() {    //fonction qui va répéter pour chaqu
         return $this->_genre ;
     }
 }
+
+// -> opérateur objet
